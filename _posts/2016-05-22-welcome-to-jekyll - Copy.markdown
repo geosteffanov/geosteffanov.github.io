@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-22 17:01:21 +0300
-categories: jekyll update
+title:  "This is my first post!"
+date:   2016-05-22 18:23:00 +0200
+categories: Site progress
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+My name is Georgi Stefanov. Currently, May 2016, I am finishing my first year of studying Computer Science at Sofia
+University, Bulgaria. My prime 'scientific' interest is Mathematics, but I am always keen on learning anything new.
+Of course, I have many interests and hobbies, but my initial
+intentions for this site is to store and reflect upon my progress as a student, to post blog-lectures _(although I am not sure what approach to use for this end)_, show snippets of my code, and discuss my views on CS topics.
 
-Jekyll also offers powerful support for code snippets:
+So how did I start this site? Well, I am still a learner, but I followed through this easy course in [Codecademy][codecademy-webdeployment] which showed me how to deploy a webpage using GitHub Pages, combined with [Jekyll][jekyll-site]. There is much more for me to learn, and there will always be - but that's the fun part of it all!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+If you have any suggestions for me and my blog, or you just want to contact me you can do so by e-mail: geosteffanov@gmail.com
+
+
+[codecademy-webdeployment]: https://www.codecademy.com/en/courses/deploy-a-website
+[jekyll-site]:   http://jekyllrb.com/
