@@ -2,7 +2,7 @@
 layout: post
 title:  "This is my first post!"
 date:   2016-05-22 18:23:00 +0200
-categories: Site progress
+categories: general
 published: true
 ---
 Hello!
@@ -21,4 +21,3 @@ If you have any suggestions for me and my blog, or you just want to contact me y
 
 [codecademy-webdeployment]: https://www.codecademy.com/en/courses/deploy-a-website
 [jekyll-site]:   http://jekyllrb.com/
-change!
