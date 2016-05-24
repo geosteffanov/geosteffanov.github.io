@@ -1,0 +1,22 @@
+---
+layout: page
+title: Math
+permalink: /math/
+---
+
+<div class="general">
+
+  <h1 class="page-heading">Here you will find posts on mathematical topics</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.math %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -3,6 +3,7 @@ layout: post
 title:  "This is my first post!"
 date:   2016-05-22 18:23:00 +0200
 categories: general
+future: true
 published: true
 ---
 Hello!
